@@ -4,7 +4,6 @@ As a team, you should create and style the front-end of a to-do list web applica
 - [Material Design](https://material.io/design/introduction) is a design system that can guide you on what UI decisions to make if you would like to explore best practices, but functionality is the key focus of the lab.
 - No back-end is required for this lab, all data (tasks) should live in the front-end.
 
-
 ## Requirements
 Feature requirements (Week1 task is complete when you):
 + Design your personalize about me page
